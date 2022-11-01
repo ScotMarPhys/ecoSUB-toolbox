@@ -1,2 +1,4 @@
 #ignore all data
 /data
+#ignore all bathy
+/bathy
