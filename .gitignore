@@ -2,3 +2,5 @@
 /data
 #ignore all bathy
 /bathy
+# all castaway data
+*.csv
